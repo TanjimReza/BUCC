@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+#Executive Body of BRAC University Computer Club 2020-21
+##Faculty Advisor 
+Annajiat Alim Rasel Sir
+##Co-Advisor
+Arif Shakil Sir
+##Co-Advisor
+Shaily Roy Ma'am 
+##President of BUCC
+Mahima Rabbi
+##Vice President(VP)
+Rawha Mikdad Chowdhury
+##General Secretary(GS)
+Dhruba Chakraborty
 
-You can use the [editor on GitHub](https://github.com/TanjimReza/BUCC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
