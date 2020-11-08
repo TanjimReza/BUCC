@@ -1,41 +1,44 @@
-#Executive Body of BRAC University Computer Club 2020-21
-##Faculty Advisor 
+# Executive Body of BRAC University Computer Club 2020-21
+## Faculty Advisor 
 Annajiat Alim Rasel Sir
-##Co-Advisor
+## Co-Advisor
 Arif Shakil Sir
-##Co-Advisor
+## Co-Advisor
 Shaily Roy Ma'am 
-##President of BUCC
+## President of BUCC
 Mahima Rabbi
-##Vice President(VP)
+## Vice President(VP)
 Rawha Mikdad Chowdhury
-##General Secretary(GS)
+## General Secretary(GS)
 Dhruba Chakraborty
 
 
-### Markdown
+## Creative Department
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Directors
+Tanzimul Haque
+Rubuyat Jahan Roshne
+### Assistant Directors 
+Sakib Hassan Chowdhury
+Saraf Noor Khaled
+Sameha Kamrul
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Here
+Senior Executives | Executives
+------------ | -------------
+Nabila Bintey Hassan | Mukarrama Tun Fabia
+Mohtasim Abrar Samin | S R Sohan
+Nayeem Rafsan | Nur Fatiha Tahiat
+Istiak | Sadia Sami
+Maliha Bushra Hoque | Moin Uddin Ahmed
+Sayara Zerin | Nizbath Ahsan
+Nuha Tajrian | Akhi Akter Mim
+Mumtahinah Sristy | Tanjim Reza
+Shamazda Islam Oishi | Samit Saha
+Zuhair Hossain | Zinia Nawrin
+Md. Sabbir Al Mamon | Kazi Shahed Mamun
+- | Naahi Mumtaj Rihan
+- | Antu Chowdhury
 
 ### Jekyll Themes
 
