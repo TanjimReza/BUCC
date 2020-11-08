@@ -37,8 +37,6 @@ Mumtahinah Sristy | Tanjim Reza
 Shamazda Islam Oishi | Samit Saha
 Zuhair Hossain | Zinia Nawrin
 Md. Sabbir Al Mamon | Kazi Shahed Mamun
-- | Naahi Mumtaj Rihan
-- | Antu Chowdhury
 
 ### Jekyll Themes
 
